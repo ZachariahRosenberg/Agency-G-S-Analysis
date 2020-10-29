@@ -2,7 +2,8 @@
 
 ![](animated_graph.gif)
 
-[Interactive Demo](https://zr-gs-analysis.netlify.app)
+<a href="https://zr-gs-analysis.netlify.app" target="_blank">Interactive Demo</a>
+
 *Note: Demo doesn't contain all possible toggles and features. Please see notebook for full feature.*
 
 ## Discussion
@@ -45,4 +46,4 @@ The final graph has multiple toggles to change the data view. These are largely 
 
 You can toggle lenders on and off to compare.
 
-[Interactive Demo](https://zr-gs-analysis.netlify.app)
+<a href="https://zr-gs-analysis.netlify.app" target="_blank">Interactive Demo</a>
