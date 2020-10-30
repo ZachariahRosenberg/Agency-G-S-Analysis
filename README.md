@@ -32,7 +32,7 @@ Github can usually display the notebook. In case of a loading error, view the no
 
 https://nbviewer.jupyter.org/github/ZachariahRosenberg/Agency-G-S-Analysis/blob/main/fnma_g_s_fee.ipynb
 
-The final graph has multiple toggles to change the data view. These are largely implemented with ipywidgets, and require the notebook to be running. However a demo can be found by opening the `./chart.html` file or going to https://zr-gs-analysis.netlify.app. That has the following inputs:
+The final graph has multiple toggles to change the data view. These are largely implemented with ipywidgets, and require the notebook to be running. However a demo can be found by going to https://zr-gs-analysis.netlify.app. The demo has the following inputs:
 
 - Date Range: May 2015 - May 2020
 - Market Rate (No LIHTC/Affordable)
